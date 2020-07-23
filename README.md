@@ -17,3 +17,11 @@
 - [CSS Grids from Wes bos](https://cssgrid.io/)
 - [CSS Grids from css tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Shapes in css](https://css-tricks.com/the-shapes-of-css/)
+
+## React
+
+- [React Docs](https://reactjs.org/)
+- [Dave Ceddia's blog ](https://daveceddia.com/archives/)
+- [Kent C. Dodds blog](https://kentcdodds.com/)
+- [Authentication in react](https://medium.com/better-programming/building-basic-react-authentication-e20a574d5e71)
+- [Typescript with react](https://react-typescript-cheatsheet.netlify.app/docs)
